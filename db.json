@@ -1,0 +1,59 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "products": "soap",
+            "user": "user1"
+        },
+        {
+            "id": 2,
+            "products": "bathsoap",
+            "user": "user2"
+        },
+        {
+            "id": 1,
+            "user": "user1"
+        }
+    ],
+    "user": [
+        {
+            "id": 1,
+            "user": "user1"
+        },
+        {
+            "id": 2,
+            "user": "user2"
+        }
+    ]
+}{
+    "products": [
+        {
+            "id": 1,
+            "products": "soap",
+            "user": "user1"
+        },
+        {
+            "id": 2,
+            "products": "bathsoap",
+            "user": "user2"
+        },
+        {
+            "id": 1,
+            "user": "user1"
+        },
+        {
+            "id": 1,
+            "user": "user1"
+        }
+    ],
+    "user": [
+        {
+            "id": 1,
+            "user": "user1"
+        },
+        {
+            "id": 2,
+            "user": "user2"
+        }
+    ]
+}
